@@ -1,0 +1,2 @@
+# Juego_Pac_Man
+Este es un juego realizado junto a Erick, el mismo intenta simular el clasico en 2D del famoso juego de Mr. Pac Man, el objetivo del mismo es comer todos los puntos amarrillos que se encuentran en el mapa evitando que alguno de los fantasmas los atrapen, solo tendra una vida, para reiniciar tendra que salir de la aplicacion y volver a iniciar. Este juego esta hecho en Apache Netbeans 11.2.
